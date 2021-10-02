@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = emilym.baird@gmail.com
+	name = Emily Baird
